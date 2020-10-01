@@ -1,2 +1,2 @@
 # Introduction to Data Science in Python
- Some Codes of Coursera's course
+ Some code samples from the Coursera course with the same name.
